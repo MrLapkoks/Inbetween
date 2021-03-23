@@ -56,8 +56,10 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\splash.cs" />
     <Compile Include="Assets\starter.cs" />
+    <Compile Include="Assets\splash.cs" />
+    <Compile Include="Assets\rotate_around_object.cs" />
+    <Compile Include="Assets\centerview.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
